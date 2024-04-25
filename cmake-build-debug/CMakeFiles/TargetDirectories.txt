@@ -1,0 +1,3 @@
+/home/angel/poo/ejercicio_1/cmake-build-debug/CMakeFiles/ejercicio_1.dir
+/home/angel/poo/ejercicio_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/angel/poo/ejercicio_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,17 @@
+# ninja log v5
+304	371	1714002254861854484	ejercicio_1	f670952e6b327fe8
+2	270	1714002254761855158	CMakeFiles/ejercicio_1.dir/Lacteo/Lacteo.cpp.o	47a5131c11a2652
+2	286	1714002254777855051	CMakeFiles/ejercicio_1.dir/Fruta/Fruta.cpp.o	9b714c0c730a125a
+3	431	1713884196108026444	CMakeFiles/ejercicio_1.dir/main.cpp.o	6b816a323a47f911
+1	304	1714002254793854943	CMakeFiles/ejercicio_1.dir/Producto/Producto.cpp.o	abd1c66c22c0e444
+1	300	1714009222530952196	CMakeFiles/ejercicio_1.dir/NoPerecible/NoPerecible.cpp.o	5476869543626197
+1	301	1714009222530952196	CMakeFiles/ejercicio_1.dir/Limpieza/Limpieza.cpp.o	ba81963e4d2fb74e
+1	351	1714009476444415494	CMakeFiles/ejercicio_1.dir/main.cpp.o	6b816a323a47f911
+351	439	1714009476532415608	ejercicio_1	32e5070a141772fe
+2	306	1714009638181507001	CMakeFiles/ejercicio_1.dir/Lacteo/Lacteo.cpp.o	47a5131c11a2652
+3	308	1714009638181507001	CMakeFiles/ejercicio_1.dir/NoPerecible/NoPerecible.cpp.o	5476869543626197
+2	414	1714009638289508263	CMakeFiles/ejercicio_1.dir/Fruta/Fruta.cpp.o	9b714c0c730a125a
+3	416	1714009638289508263	CMakeFiles/ejercicio_1.dir/Limpieza/Limpieza.cpp.o	ba81963e4d2fb74e
+2	503	1714009638377509290	CMakeFiles/ejercicio_1.dir/main.cpp.o	6b816a323a47f911
+2	557	1714009638433509945	CMakeFiles/ejercicio_1.dir/Producto/Producto.cpp.o	abd1c66c22c0e444
+557	627	1714009638501510739	ejercicio_1	32e5070a141772fe
